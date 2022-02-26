@@ -17,9 +17,9 @@ Expo will take control of the process and build the project on a local port. It 
 
 Once opened in you mobile device or simulator, you can start pressing any of the films and a complete list of characters should display beneath.
 
-<img src="./assets/Screenshot_1.jpg" width="300" type="image"></a>
-<img src="./assets/Screenshot_2.jpg" width="300" type="image"></a>
-<img src="./assets/Screenshot_3.jpg" width="300" type="image"></a>
+<img src="./assets/Screenshot_1.jpg" width="200" type="image"></a>
+<img src="./assets/Screenshot_2.jpg" width="200" type="image"></a>
+<img src="./assets/Screenshot_3.jpg" width="200" type="image"></a>
 
 
 ## Tech Stack
